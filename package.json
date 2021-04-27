@@ -20,6 +20,6 @@
     "koa2-cors": "^2.0.6",
     "mysql": "^2.17.1",
     "nedb-session-store": "^1.1.2",
-    "redis": "^2.8.0"
+    "redis": "^3.1.1"
   }
 }
